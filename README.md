@@ -56,39 +56,3 @@ flowchart TD
     D --> E[🛠️ Create executable with PyInstaller]
     E --> F[🚀 Final Executable]
 ```
-
-
-### 🥈 Flujo de la Versión 2 (v2)
-
-```mermaid
-flowchart TD
-    A[📂 Select .py file] --> B[📂 Select .ico file (optional)]
-    B --> C[⚙️ Generate .pyx and compile with Cython]
-    C --> D[📝 Create main.py]
-    D --> E[🛠️ Create executable with PyInstaller]
-    E --> F[🛡️ Generate Go project]
-    F --> G[💻 Compile Go project]
-    G --> H[🚀 Final Executable with Go]
-```
----
-
-```mermaid
-graph LR
-    subgraph 🥇 v1
-    A1[📂 Select .py] --> B1[📂 Select .ico]
-    B1 --> C1[⚙️ Generate .pyx and compile]
-    C1 --> D1[📝 Create main.py]
-    D1 --> E1[🛠️ Create executable with PyInstaller]
-    E1 --> F1[🚀 Final Executable]
-    end
-
-    subgraph 🥈 v2
-    A2[📂 Select .py] --> B2[📂 Select .ico]
-    B2 --> C2[⚙️ Generate .pyx and compile]
-    C2 --> D2[📝 Create main.py]
-    D2 --> E2[🛠️ Create executable with PyInstaller]
-    E2 --> F2[🛡️ Generate Go project]
-    F2 --> G2[💻 Compile Go project]
-    G2 --> H2[🚀 Final Executable with Go]
-    end
-```
