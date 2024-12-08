@@ -1,3 +1,19 @@
+# 🎫 Coding Services SEND DM v2 🎫
+
+---
+
+
+### 🥈 **Version 2 (v2) Features**:
+
+- **Go Integration**: Integrates Go for enhanced security. This includes advanced checks for virtual environments and protections against detection techniques such as AMSI and ScriptBlockLogging.
+- **Go Project Generation**: The tool generates a Go project that includes the necessary security checks and ensures that the Python executable is embedded securely within the Go project.
+- **Final Compilation with Go**: The final output is a Go-compiled executable, which embeds the Python script along with the security protections.
+- **Security Features**: 
+  - **VM Detection**: Detects if the executable is running inside a virtual machine or sandbox environment.
+  - **AMSI & ScriptBlockLogging Disablement**: Disables Microsoft’s AMSI and PowerShell ScriptBlockLogging, preventing antivirus software from detecting malicious code.
+
+---
+
 # 🚀 **GENES-PY** - Python Cython Executable Generator
 
 ## 📦 **Versions**
@@ -71,8 +87,6 @@
 
 ---
 
-## 🔍 **Detailed Explanation of Features**:
-
 ### 🥇 **Version 1 (v1) Features**:
 
 - **File Selection**: Users can choose the Python script they want to compile and optionally select an icon for the executable.
@@ -81,11 +95,3 @@
 - **Executable Creation with PyInstaller**: The final `.exe` is created using PyInstaller, ensuring compatibility with Windows systems.
 - **Graphical Interface**: CustomTkinter provides a simple and effective GUI to guide users through the entire process.
 
-### 🥈 **Version 2 (v2) Features**:
-
-- **Go Integration**: Integrates Go for enhanced security. This includes advanced checks for virtual environments and protections against detection techniques such as AMSI and ScriptBlockLogging.
-- **Go Project Generation**: The tool generates a Go project that includes the necessary security checks and ensures that the Python executable is embedded securely within the Go project.
-- **Final Compilation with Go**: The final output is a Go-compiled executable, which embeds the Python script along with the security protections.
-- **Security Features**: 
-  - **VM Detection**: Detects if the executable is running inside a virtual machine or sandbox environment.
-  - **AMSI & ScriptBlockLogging Disablement**: Disables Microsoft’s AMSI and PowerShell ScriptBlockLogging, preventing antivirus software from detecting malicious code.
