@@ -55,7 +55,7 @@ flowchart TD
     C --> D[📝 Create main.py]
     D --> E[🛠️ Create executable with PyInstaller]
     E --> F[🚀 Final Executable]
-
+```
 
 
 ### 🥈 Flujo de la Versión 2 (v2)
@@ -69,7 +69,7 @@ flowchart TD
     E --> F[🛡️ Generate Go project]
     F --> G[💻 Compile Go project]
     G --> H[🚀 Final Executable with Go]
-
+```
 ---
 
 ```mermaid
@@ -91,4 +91,4 @@ graph LR
     F2 --> G2[💻 Compile Go project]
     G2 --> H2[🚀 Final Executable with Go]
     end
-
+```
