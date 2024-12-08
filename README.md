@@ -1,4 +1,6 @@
-# 🎫 Coding Services SEND DM v2 🎫
+# 🚀 **GENES-PY** - Python Cython Executable Generator
+
+# 📦 Coding Services SEND DM v2 🎫
 
 ---
 
@@ -14,9 +16,6 @@
 
 ---
 
-# 🚀 **GENES-PY** - Python Cython Executable Generator
-
-## 📦 **Versions**
 
 ### 🥇 **Version 1 (v1)**
 
