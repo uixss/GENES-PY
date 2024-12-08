@@ -1,4 +1,4 @@
-# 🚀 **GENES-PY** - Python Cython Executable Generator
+# 🚀 **GENES-PY**
 
 # 📦 Coding Services SEND DM v2 🎫
 
