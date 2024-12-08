@@ -1,11 +1,4 @@
-# 🚀 EXE Generator with Cython, PyInstaller, and Go
-
-## 📝 Description
-
-This repository contains two versions of a tool to generate executable files (.exe) from Python scripts (.py).
-
-- **Version 1 (v1)** uses **Cython** and **PyInstaller** to compile and package the executable.
-- **Version 2 (v2)** adds integration with a **Go** project to provide advanced functionality and additional security measures.
+# 🚀 GENES-PY
 
 ## 📦 Versions
 
